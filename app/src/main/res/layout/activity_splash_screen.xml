@@ -11,6 +11,7 @@
     tools:context="com.dipesan.dani.dipesan2.SplashScreen">
 
     <TextView
+
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
